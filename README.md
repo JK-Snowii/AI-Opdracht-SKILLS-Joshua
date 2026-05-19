@@ -1,6 +1,7 @@
 # AI-Opdracht-SKILLS-Joshua
 Make an application of sorts by only using AI (Prompts only challenge)
 
-Idea + Description : I'm planning to create a website using HTML, CSS and maybe Javascript
-that works sorta as a self-portrait that shows my interests and allows you to interact wuth them, stuff like a link to my favorite youtube channel.
-Allowing the user to get to know more about me and why i'm just genuinely so cool.
+Description : I'm planning to create a website using HTML, CSS and maybe Javascript to track the best GD (Geometry Dash) players.
+On the homepage will be a list of the top 150 best GD players, ranking their achievements alongside eachother with a point based system.
+If you click on a specific player you will be sent to their page that gives more info about who they are. Stuff like name, icons they use, hardest achievements, other notable achievements and everything more I could think of.
+I want the theming to change depending on which player you've clicked on, changing colors and overal showing the vibe they give of.
