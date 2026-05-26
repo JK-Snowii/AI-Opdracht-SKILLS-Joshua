@@ -6,3 +6,6 @@ On the homepage will be a list of the top 150 best GD players, ranking their ach
 With an embedded video that showcases their hardest achievement at the time.
 If you click on a specific player you will be sent to their page that gives more info about who they are. Stuff like name, icons they use, hardest achievements, other notable achievements and everything more I could think of.
 I want the theming to change depending on which player you've clicked on, changing colors and overal showing the vibe they give of.
+
+1# ChatGPT: https://chatgpt.com/share/6a15a423-bff4-83eb-880d-b8b92039d17a
+1# Copilot: https://copilot.microsoft.com/shares/bKzuE1Yu2DmvMcJic8dJD

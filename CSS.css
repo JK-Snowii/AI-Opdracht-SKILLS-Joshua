@@ -1,0 +1,77 @@
+:root {
+    --primary: #ffffff;
+    --secondary: #000000;
+    --accent: #ff0000;
+}
+
+body {
+    background: var(--primary);
+    color: var(--secondary);
+}
+
+.button {
+    background: var(--accent);
+}
+
+body {
+    background: #0f0f0f;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#player-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.player-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #1a1a1a;
+    padding: 12px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.player-card:hover {
+    background: #242424;
+}
+
+.player-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.rank {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.name {
+    font-size: 18px;
+}
+
+.points {
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+.hardest-thumb {
+    width: 80px;
+    height: 45px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-left: 20px;
+}
