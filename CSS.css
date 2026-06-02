@@ -1,25 +1,32 @@
+/* ==========================
+   THEME VARIABLES
+========================== */
+
 :root {
     --primary: #ffffff;
     --secondary: #000000;
     --accent: #ff0000;
+
+    transition: all 0.3s ease;
 }
 
+/* Apply theme */
 body {
-    background: var(--primary);
-    color: var(--secondary);
-}
-
-.button {
-    background: var(--accent);
-}
-
-body {
-    background: #0f0f0f;
-    color: #ffffff;
+    background: var(--secondary);
+    color: var(--primary);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
 }
+
+/* Accent example */
+.button {
+    background: var(--accent);
+}
+
+/* ==========================
+   HOMEPAGE
+========================== */
 
 h1 {
     text-align: center;
@@ -61,11 +68,6 @@ h1 {
 
 .name {
     font-size: 18px;
-}
-
-.points {
-    font-size: 14px;
-    opacity: 0.8;
 }
 
 .hardest-thumb {
