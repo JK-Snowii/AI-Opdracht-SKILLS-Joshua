@@ -12,3 +12,6 @@ I want the theming to change depending on which player you've clicked on, changi
 
 2# ChatGPT: https://chatgpt.com/c/6a1eca60-d4e0-8333-9939-ca540f520ab0
 2# Copilot: https://copilot.microsoft.com/chats/HC5vAsd7KpiMjN8Jcdq56
+
+3# ChatGPT: https://chatgpt.com/c/6a1eca60-d4e0-8333-9939-ca540f520ab0
+3# Copilot: https://copilot.microsoft.com/shares/RxwQ2LijLd9GfvPMpXgcE

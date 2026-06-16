@@ -6,11 +6,7 @@ const players = [
         hardest: "Tidal Wave",
         hardestVideo: "https://www.youtube.com/embed/9fsZ014qB3s",
 
-        thumbnail: "images/zoink.jpg",
-
-        icons: {
-            iconset: "icons/zoink-icons.png"
-        },
+        thumbnail: "images/zoink.png",
 
         achievements: ["Tidal Wave", "Acheron", "Avernus"],
 
@@ -27,11 +23,8 @@ const players = [
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/QV0lz9c8BYw",
 
-        thumbnail: "images/wpopoff.jpg",
+        thumbnail: "images/wpopoff.png",
 
-        icons: {
-            iconset: "icons/wpopoff-icons.png"
-        },
 
         achievements: ["Acheron", "Slaughterhouse", "Sakupen Circles"],
 
@@ -48,11 +41,8 @@ const players = [
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/ttsK0KYHJb8",
 
-        thumbnail: "images/trick.jpg",
+        thumbnail: "images/trick.png",
 
-        icons: {
-            iconset: "icons/trick-icons.png"
-        },
 
         achievements: ["Acheron", "Firework", "Silent Clubstep"],
 
@@ -69,11 +59,8 @@ const players = [
         hardest: "Avernus",
         hardestVideo: "https://www.youtube.com/embed/csTgoj00VQI",
 
-        thumbnail: "images/netermind.jpg",
+        thumbnail: "images/netermind.png",
 
-        icons: {
-            iconset: "icons/netermind-icons.png"
-        },
 
         achievements: ["Avernus", "Kyouki", "Slaughterhouse"],
 
@@ -90,11 +77,7 @@ const players = [
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/dYounJFa6f8",
 
-        thumbnail: "images/servax.jpg",
-
-        icons: {
-            iconset: "icons/servax-icons.png"
-        },
+        thumbnail: "images/servax.png",
 
         achievements: ["Acheron", "Kenos", "Codependence"],
 
@@ -111,9 +94,7 @@ const players = [
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/wLlQAWoSsPo",
 
-        icons: {
-            iconset: "icons/a6-icons.png"
-        },
+        thumbnail: "images/a6.png",
 
         achievements: ["Acheron", "Kyouki", "Firework"],
 
@@ -129,10 +110,7 @@ const players = [
         name: "w3rty",
         hardest: "Avernus",
         hardestVideo: "https://www.youtube.com/embed/SAgyELodik8",
-
-        icons: {
-            iconset: "icons/w3rty-icons.png"
-        },
+        thumbnail: "images/w3rty.png",
 
         achievements: ["Avernus", "Slaughterhouse", "Kenos"],
 
@@ -149,9 +127,7 @@ const players = [
         hardest: "Kyouki",
         hardestVideo: "https://www.youtube.com/embed/UyKJ4VAz5Hc",
 
-        icons: {
-            iconset: "icons/taiago-icons.png"
-        },
+        thumbnail: "images/taiago.png",
 
         achievements: ["Kyouki", "Acheron", "Limbo"],
 
@@ -168,9 +144,7 @@ const players = [
         hardest: "Slaughterhouse",
         hardestVideo: "https://www.youtube.com/embed/kpcF1-QAHQc",
 
-        icons: {
-            iconset: "icons/doggie-icons.png"
-        },
+        thumbnail: "images/doggie.png",
 
         achievements: ["Slaughterhouse", "Firework", "Kenos"],
 
@@ -186,10 +160,7 @@ const players = [
         name: "ROZE",
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/QLxVOIzFCO4",
-
-        icons: {
-            iconset: "icons/roze-icons.png"
-        },
+        thumbnail: "images/roze.png",
 
         achievements: ["Acheron", "Kyouki", "Sakupen Circles"],
 
@@ -206,9 +177,7 @@ const players = [
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: {
-            iconset: "icons/diamond-icons.png"
-        },
+        thumbnail: "images/diamond.png",
 
         achievements: [
             "Acheron",
@@ -228,10 +197,7 @@ const players = [
         hardest: "Slaughterhouse",
 
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: {
-            iconset: "icons/spaceuk-icons.png"
-        },
+        thumbnail: "images/spaceuk.png",
 
         achievements: [
             "Slaughterhouse",
@@ -251,10 +217,7 @@ const players = [
         hardest: "Acheron",
 
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: {
-            iconset: "icons/cursed-icons.png"
-        },
+        thumbnail: "images/cursed.png",
 
         achievements: [
             "Acheron",
@@ -274,10 +237,7 @@ const players = [
         hardest: "Avernus",
 
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: {
-            iconset: "icons/akira-icons.png"
-        },
+        thumbnail: "images/akira.png",
 
         achievements: [
             "Avernus",
@@ -297,10 +257,7 @@ const players = [
         hardest: "Acheron",
 
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: {
-            iconset: "icons/nswish-icons.png"
-        },
+        thumbnail: "images/nswish.png",
 
         achievements: [
             "Acheron",
@@ -320,10 +277,7 @@ const players = [
         hardest: "Kyouki",
 
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: {
-            iconset: "icons/luqualizer-icons.png"
-        },
+        thumbnail: "images/luqualizer.png",
 
         achievements: [
             "Kyouki",
@@ -343,10 +297,7 @@ const players = [
         hardest: "Acheron",
 
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: {
-            iconset: "icons/vision-icons.png"
-        },
+        thumbnail: "images/vision.png",
 
         achievements: [
             "Acheron",
@@ -366,10 +317,7 @@ const players = [
         hardest: "Acheron",
 
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: {
-            iconset: "icons/krazyman50-icons.png"
-        },
+        thumbnail: "images/krazyman50.png",
 
         achievements: [
             "Acheron",
@@ -389,10 +337,7 @@ const players = [
         hardest: "Kyouki",
 
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: {
-            iconset: "icons/parallax-icons.png"
-        },
+        thumbnail: "images/parallax.png",
 
         achievements: [
             "Kyouki",
@@ -412,10 +357,7 @@ const players = [
         hardest: "Avernus",
 
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: {
-            iconset: "icons/timo-icons.png"
-        },
+        thumbnail: "images/timo.png",
 
         achievements: [
             "Avernus",
@@ -435,8 +377,7 @@ const players = [
         name: "Technical",
         hardest: "Firework",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: { iconset: "icons/technical-icons.png" },
+        thumbnail: "images/technical.png",
 
         achievements: ["Firework", "Bloodlust", "Digital Descent"],
 
@@ -451,8 +392,7 @@ const players = [
         name: "Riot",
         hardest: "Bloodlust",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: { iconset: "icons/riot-icons.png" },
+        thumbnail: "images/riot.png",
 
         achievements: ["Bloodlust", "Bloodbath", "Cataclysm"],
 
@@ -467,8 +407,7 @@ const players = [
         name: "Sunix",
         hardest: "Sonic Wave",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: { iconset: "icons/sunix-icons.png" },
+        thumbnail: "images/sunix.png",
 
         achievements: ["Sonic Wave", "Yatagarasu", "Bloodbath"],
 
@@ -484,8 +423,7 @@ const players = [
         hardest: "Kyouki",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/xanii-icons.png" },
-
+        thumbnail: "images/xanii.png",
         achievements: ["Kyouki", "Avernus", "Acheron"],
 
         theme: {
@@ -499,8 +437,7 @@ const players = [
         name: "Dorami",
         hardest: "The Golden",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: { iconset: "icons/dorami-icons.png" },
+        thumbnail: "images/dorami.png",
 
         achievements: ["The Golden", "Bloodlust", "Yatagarasu"],
 
@@ -515,8 +452,7 @@ const players = [
         name: "KrmaL",
         hardest: "Black Blizzard",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: { iconset: "icons/krmal-icons.png" },
+        thumbnail: "images/krmal.png",
 
         achievements: ["Black Blizzard", "Phobos", "Artificial Ascent"],
 
@@ -531,8 +467,7 @@ const players = [
         name: "Npesta",
         hardest: "Kenos",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: { iconset: "icons/npesta-icons.png" },
+        thumbnail: "images/npesta.png",
 
         achievements: ["Kenos", "Bloodlust", "Black Blizzard"],
 
@@ -547,8 +482,7 @@ const players = [
         name: "Michigun",
         hardest: "Artificial Ascent",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: { iconset: "icons/michigun-icons.png" },
+        thumbnail: "images/michigun.png",
 
         achievements: ["Artificial Ascent", "Bloodbath", "Temple Series"],
 
@@ -563,8 +497,7 @@ const players = [
         name: "Mulpan",
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: { iconset: "icons/mulpan-icons.png" },
+        thumbnail: "images/mulpan.png",
 
         achievements: ["Acheron", "Kyouki", "Avernus"],
 
@@ -579,8 +512,7 @@ const players = [
         name: "Paqoe",
         hardest: "Avernus",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
-
-        icons: { iconset: "icons/paqoe-icons.png" },
+        thumbnail: "images/paqoe.png",
 
         achievements: ["Avernus", "Slaughterhouse", "Kyouki"],
 
@@ -596,23 +528,23 @@ const players = [
         hardest: "Cataclysm",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/juniper-icons.png" },
+        thumbnail: "images/juniper.png",
 
         achievements: ["Cataclysm", "Acu", "Future Funk"],
 
         theme: {
-            primary: "#ff99ff",
-            secondary: "#1a001a",
-            accent: "#ffffff"
-        }
-    },
+                primary: "#ff99ff",
+                secondary: "#1a001a",
+                accent: "#ffffff"
+            }
+        },
     {
         id: "evw",
         name: "EVW",
         hardest: "Bloodbath",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/evw-icons.png" },
+        thumbnail: "images/evw.png",
 
         achievements: ["Bloodbath", "Yatagarasu", "Digital Descent"],
 
@@ -628,7 +560,7 @@ const players = [
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/partition-icons.png" },
+        thumbnail: "images/partition.png",
 
         achievements: ["Acheron", "Avernus", "Kyouki"],
 
@@ -644,7 +576,7 @@ const players = [
         hardest: "Firework",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/ufwm-icons.png" },
+        thumbnail: "images/ufwm.png",
 
         achievements: ["Firework", "Slaughterhouse", "Kenos"],
 
@@ -660,7 +592,7 @@ const players = [
         hardest: "Kyouki",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/snowy-icons.png" },
+        thumbnail: "images/snowy.png",
 
         achievements: ["Kyouki", "Acheron", "Firework"],
 
@@ -676,7 +608,7 @@ const players = [
         hardest: "Avernus",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/crack-icons.png" },
+        thumbnail: "images/crack.png",
 
         achievements: ["Avernus", "Kyouki", "Acheron"],
 
@@ -692,7 +624,7 @@ const players = [
         hardest: "Cataclysm",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/cyclic-icons.png" },
+        thumbnail: "images/cyclic.png",
 
         achievements: ["Cataclysm", "ICDX", "Theory of Skrillex"],
 
@@ -708,7 +640,7 @@ const players = [
         hardest: "Bloodbath",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/andromeda-icons.png" },
+        thumbnail: "images/andromeda.png",
 
         achievements: ["Bloodbath", "Cataclysm", "Sonic Wave"],
 
@@ -724,7 +656,7 @@ const players = [
         hardest: "Bloodlust",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/guitar-icons.png" },
+        thumbnail: "images/guitar.png",
 
         achievements: ["Bloodlust", "Bloodbath", "Yatagarasu"],
 
@@ -740,7 +672,7 @@ const players = [
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/trusta-icons.png" },
+        thumbnail: "images/trusta.png",
 
         achievements: ["Acheron", "Avernus", "Kyouki"],
 
@@ -756,7 +688,7 @@ const players = [
         hardest: "Kenos",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/bgram-icons.png" },
+        thumbnail: "images/bgram.png",
 
         achievements: ["Kenos", "Firework", "Bloodlust"],
 
@@ -772,7 +704,7 @@ const players = [
         hardest: "Avernus",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/stormfly-icons.png" },
+        thumbnail: "images/stormfly.png",
 
         achievements: ["Avernus", "Acheron", "Firework"],
 
@@ -788,7 +720,7 @@ const players = [
         hardest: "Bloodbath",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/nexus-icons.png" },
+        thumbnail: "images/nexus.png",
 
         achievements: ["Bloodbath", "Artificial Ascent", "Sonic Wave"],
 
@@ -804,7 +736,7 @@ const players = [
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/surv-icons.png" },
+        thumbnail: "images/surv.png",
 
         achievements: ["Acheron", "Kyouki", "Avernus"],
 
@@ -820,7 +752,7 @@ const players = [
         hardest: "Firework",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/cob-icons.png" },
+        thumbnail: "images/cob.png",
 
         achievements: ["Firework", "Kenos", "Slaughterhouse"],
 
@@ -836,7 +768,7 @@ const players = [
         hardest: "Acheron",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/ufd-icons.png" },
+        thumbnail: "images/ufd.png",
 
         achievements: ["Acheron", "Avernus", "Kyouki"],
 
@@ -852,7 +784,7 @@ const players = [
         hardest: "Avernus",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/shukketsu-icons.png" },
+        thumbnail: "images/shukketsu.png",
 
         achievements: ["Avernus", "Acheron", "Firework"],
 
@@ -868,7 +800,7 @@ const players = [
         hardest: "Acu",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/gdcolon-icons.png" },
+        thumbnail: "images/gdcolon.png",
 
         achievements: ["Acu", "Future Funk II", "Magma Bound"],
 
@@ -884,7 +816,7 @@ const players = [
         hardest: "Kyouki",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/moric-icons.png" },
+        thumbnail: "images/moric.png",
 
         achievements: ["Kyouki", "Avernus", "Acheron"],
 
@@ -900,7 +832,7 @@ const players = [
         hardest: "Firework",
         hardestVideo: "https://www.youtube.com/embed/xxxx",
 
-        icons: { iconset: "icons/vortrox-icons.png" },
+        thumbnail: "images/vortrox.png",
 
         achievements: ["Firework", "Kenos", "Slaughterhouse"],
 
